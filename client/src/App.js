@@ -11,23 +11,25 @@ import Brand from './Components/Brand';
 import BrandCover from './Components/BrandCover';
 import Intro from './Components/Intro';
 import IntroCover from './Components/IntroCover';
-import Sponsor from './Components/Sponsor';
+
 import Footer from './Components/Footer';
 import { Route } from 'react-router';
 import Register from './Auth/Register';
+import Padding from './Components/Padding';
 
 const App = () => {
   return (
-    <div>
+    <>
       <Nav />
+      <Padding />
       <Route exact path="/">
         <Home />
         <IntroCover />
         <Intro />
         <BrandCover />
         <Brand />
-        <Sponsor />
-        <Footer />
+
+        {/* <Footer /> */}
       </Route>
       <Route path="/account/login">
         <SingIn />
@@ -35,7 +37,7 @@ const App = () => {
       <Route path="/account/register">
         <Register />
       </Route>
-    </div>
+    </>
   );
 };
 

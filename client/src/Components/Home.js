@@ -4,9 +4,11 @@ import Video from '../Video/Blue.mp4';
 
 const Home = () => {
   return (
-    <video className="door" autoPlay loop muted>
-      <source className="video" src={Video} type="video/mp4" />
-    </video>
+    <>
+      <video height="100" className="GearLog" autoPlay loop muted>
+        <source className="intro-video" src={Video} type="video/mp4" />
+      </video>
+    </>
   );
 };
 
