@@ -35,8 +35,9 @@
 
 
 ## 프로젝트 소개
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- 
+[![Product Name Screen Shot][product-screenshot]](https://example.com) -->
+#GearLog
 
 * 요즘 개인 장소 꾸미기는
 특히 개인의 사무환경이나 관심 있는 사람들이 많아지며 pc에 관심이 더욱더 많아지고있고 개발사 또한 다양한 기능을 추가하며 사용자의 패턴을 파악해 멋지고 좋은 기기들을 출시해내고있지만 사람들이 주변기기에 많은 관심
@@ -78,9 +79,11 @@
 
 
 <!-- LICENSE -->
-## License
+## Api Docs
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+* get : https://raidi9069.gitbook.io/gearlog-1/reference/api-reference/user
+* post: https://raidi9069.gitbook.io/gearlog-1/reference/api-reference/post
+* message : https://raidi9069.gitbook.io/gearlog-1/reference/api-reference/message
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
