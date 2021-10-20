@@ -39,10 +39,10 @@
 
 |역할|이름|포지션|
 |------|---|---|
-|팀장|이영광|frontEnd|
-|팀원|김동찬|front-End| 
-|팀원|황성현|back-End|
-|팀원|이창윤|back-End|
+|팀장|이영광|Front-End|
+|팀원|김동찬|Front-End| 
+|팀원|황성현|Back-End|
+|팀원|이창윤|Back-End|
 
 
 
