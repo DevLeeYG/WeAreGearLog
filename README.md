@@ -61,11 +61,11 @@
 
 #팀 멤버
 
-|역할|이름|포지션|Contact|
-|팀장|이영광|front-End|깃|
-|팀원|김동찬|front-End|깃| 
-|팀원|황성현|back-End|깃|
-|팀원|이창윤|back-End|ㄱ;ㅅ|
+|역할|이름|포지션|
+|팀장|이영광|frontEnd|
+|팀원|김동찬|front-End| 
+|팀원|황성현|back-End|
+|팀원|이창윤|back-End|
 
 
 
