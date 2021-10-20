@@ -37,7 +37,7 @@
 ## 프로젝트 소개
 <!-- 
 [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-#GearLog
+# GearLog
 
 * 요즘 개인 장소 꾸미기는
 특히 개인의 사무환경이나 관심 있는 사람들이 많아지며 pc에 관심이 더욱더 많아지고있고 개발사 또한 다양한 기능을 추가하며 사용자의 패턴을 파악해 멋지고 좋은 기기들을 출시해내고있지만 사람들이 주변기기에 많은 관심
@@ -59,7 +59,7 @@
 * [Redux](https://ko.redux.js.org/)
 * [Axios](https://www.axios.com/)
 
-#팀 멤버
+# 팀 멤버
 
 |역할|이름|포지션|
 |------|---|---|
