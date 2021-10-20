@@ -60,6 +60,8 @@
 ## 워크프레임
  ![스크린샷 2021-10-20 오전 10 35 27](https://user-images.githubusercontent.com/81807542/138013368-0520540c-9932-48b1-9e46-d2a7c2265247.png)
 
+## 플로우차트
+<img width="768" alt="약간의 본문 텍스트 추가" src="https://user-images.githubusercontent.com/81807542/138022705-37dd4b15-79f2-4c34-b713-442da6fdbcbb.png">
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
