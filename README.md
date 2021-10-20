@@ -25,7 +25,6 @@
 ### used Stack
 * [Node.js](https://nodejs.org/) 
 * [React.js](https://reactjs.org/)
-* [Css]
 * [Styled-components](https://styled-components.com/)
 * [Sequelize](https://sequelize.org/)
 * [mySQL](https://www.mysql.com/)
