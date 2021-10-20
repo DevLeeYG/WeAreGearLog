@@ -59,17 +59,21 @@
 * [Redux](https://ko.redux.js.org/)
 * [Axios](https://www.axios.com/)
 
+#팀 멤버
+
+|역할|이름|포지션|Contact|
+|팀장|이영광|front-End|깃|
+|팀원|김동찬|front-End|깃| 
+|팀원|황성현|back-End|깃|
+|팀원|이창윤|back-End|ㄱ;ㅅ|
+
+
+
+
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-##팀 멤버
-
-|역할|이름|포지션|Contact|
-|팀장|이영광|front-End|---|
-|팀원|김동찬|front-End|---| 
-|팀원|황성현|back-End|---|
-|팀원|이창윤|back-End|---|
-
 
 
 ## 시스템 아키텍쳐
