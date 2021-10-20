@@ -8,15 +8,6 @@
 
 
 
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-  </ol>
-</details>
-
 
 
 ## 프로젝트 소개
