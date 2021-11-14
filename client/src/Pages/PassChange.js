@@ -40,7 +40,7 @@ const PassChange = ({ authRegi, authorization }) => {
         },
       )
       .then((res) => {
-        console.log(res);
+       
         if (res.status === 202) {
           alert('변경전패스워드가 맞지않습니다');
         } else {

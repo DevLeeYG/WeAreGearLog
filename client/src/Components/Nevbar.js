@@ -52,14 +52,14 @@ const NavBar = ({ isLogin, setIsLogin, setAuthRegi, authRegi }) => {
       })
       .catch((err) => {
         if (err) {
-          console.log(err);
+        
           alert('로그아웃이 되지않았습니다');
         }
       });
   };
 
   const onMypage = (id) => {
-    console.log(id);
+   
     if (id === '/account/mypage' && isLogin === false) {
       history.push('/');
       alert('로그인을 해주세요');

@@ -37,7 +37,7 @@ const AuthForm = ({ type, setIsLogin, setAuthRegi, authRegi }) => {
         },
       )
       .then((result) => {
-        console.log(result);
+       
         if (result.data.message === '이미 존재하는 email입니다') {
           alert('이미있는 email 입니다');
         } else if (result.data.message === '이미 존재하는 username입니다') {
@@ -50,7 +50,7 @@ const AuthForm = ({ type, setIsLogin, setAuthRegi, authRegi }) => {
       })
       .catch((err) => {
         if (err) {
-          console.log(err);
+         
           alert('모든 정보는 필수 입력 사항입니다.');
         }
       });
