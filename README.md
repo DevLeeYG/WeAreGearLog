@@ -1,11 +1,5 @@
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-</div>
 
+![2021-11-11_10 20 00](https://user-images.githubusercontent.com/81807542/141793493-b1e10d8b-6e4b-4cd5-810b-34208ba7954c.png)
 
 
 
